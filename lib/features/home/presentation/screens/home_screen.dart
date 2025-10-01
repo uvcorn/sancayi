@@ -32,7 +32,9 @@ class _HomeState extends State<HomeScreen> {
     final provider = Provider.of<CustomerProvider>(context);
     final tabs = ['All', 'Customer', 'Supplier'];
     return Scaffold(
+      backgroundColor: AppColors.white,
       appBar: AppBar(
+        backgroundColor: AppColors.red.withOpacity(0.2),
         title: CustomText(
           text: AppStrings.appBarTitle,
           fontWeight: FontWeight.bold,

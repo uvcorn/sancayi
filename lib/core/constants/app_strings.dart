@@ -4,6 +4,8 @@ class AppStrings {
 
   static const String appBarTitle = 'My Expence';
   static const String receivables = 'Receivables';
+  static const String debit = 'Debit';
+  static const String credit = 'Credit';
   static const String payAbles = 'Payables';
   static const String balance = 'Balance';
   static const String total = 'Total';

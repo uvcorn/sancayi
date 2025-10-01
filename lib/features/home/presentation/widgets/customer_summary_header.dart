@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:sancayi/core/constants/app_strings.dart';
-import 'package:sancayi/core/widgets/texts/custom_rich_text.dart';
-import 'package:sancayi/core/widgets/texts/custom_text.dart';
+import 'package:sancayi/core/widgets/texts_widgets/custom_rich_text.dart';
+import 'package:sancayi/core/widgets/texts_widgets/custom_text.dart';
 
 class CustomerSummaryHeader extends StatelessWidget {
   final int totalCount;

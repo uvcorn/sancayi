@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:sancayi/core/constants/app_strings.dart';
-import 'package:sancayi/core/widgets/texts/custom_text.dart';
+import 'package:sancayi/core/widgets/texts_widgets/custom_text.dart';
 
 import '../../../../core/constants/app_colors.dart';
 

@@ -5,7 +5,7 @@ import 'package:sancayi/core/constants/app_colors.dart';
 import 'package:sancayi/core/constants/app_strings.dart';
 import 'package:sancayi/features/home/presentation/providers/customer_provider.dart';
 
-import '../../../../core/widgets/texts/custom_text.dart';
+import '../../../../core/widgets/texts_widgets/custom_text.dart';
 import '../widgets/customer_list.dart';
 import '../widgets/customer_summary_header.dart';
 import '../widgets/search_box.dart';
